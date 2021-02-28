@@ -6,6 +6,8 @@
 #
 ###############################################################################
 #
+# Snickerdoodle connector pin assignments are also listed in the Snickerdoodle Book: https://wiki.krtkl.com/index.php?title=The_Snickerdoodle_Book/Appendices#Appendix_B._Connectors
+#
 #------------------------------------------------------------------------------
 # Constraints for GPIO outputs
 #------------------------------------------------------------------------------
